@@ -1,0 +1,46 @@
+.picture1{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    
+}
+img{
+    width: 300px;
+    height: 300px;
+    padding-left: 50%;
+    padding-top: 50%;
+    border-radius: 25px;
+    
+}
+.text1{
+    position: relative;
+    padding-left: 27%;
+    padding-top: 7%;
+    font-family:Montserrat;
+}
+p{
+    
+    width: 300px;
+    font-size: smaller;
+}
+h2{
+    font-weight:900;
+}
+del{
+    font-size: xx-small;
+}
+h4{
+    font-size: small;
+}
+button{
+    background-color: rgb(6, 77, 6);
+    color: aliceblue;
+    font-family:Montserrat;
+    border-radius: 15%;
+    width: 10%;
+    height: 40px;
+    border: none;
+}
+body{
+    background-color: rgb(236, 232, 232);
+}
